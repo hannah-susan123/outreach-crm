@@ -54,7 +54,7 @@ browser, so there's nothing to install on a server.
 You need [Node.js](https://nodejs.org) 18 or newer.
 
 ```bash
-git clone <your-repo-url> outreach-crm
+git clone https://github.com/hannah-susan123/outreach-crm.git
 cd outreach-crm
 npm install
 npm run dev
