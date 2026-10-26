@@ -7,7 +7,7 @@ showing how your pipeline is doing. It's designed for teams that have outgrown a
 spreadsheet but don't need a full enterprise CRM. Everything runs in the
 browser, so there's nothing to install on a server.
 
-**Live demo:** [outreach-crm.example.com](https://outreach-crm.example.com) _(placeholder — replace with the deployed URL)_
+**Live demo:** [outreach-crm-virid-psi.vercel.app](https://outreach-crm-virid-psi.vercel.app). Click **Load sample data** on the Dashboard to try it with demo data.
 
 ## Features
 
